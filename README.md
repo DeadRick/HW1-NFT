@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a981e03a-6ace-4587-a00b-7f84f8c6c593)![image](https://github.com/user-attachments/assets/b30f31f2-a6e6-4111-907a-5575c1fe2fce)## Контракты
+## Контракты
 
 ERC20 (https://www.oklink.com/ru/amoy/address/0x768b6adb679a38a06abd2405850e0ca309839d94)
 ERC1155 (https://www.oklink.com/ru/amoy/address/0x2c99b13451385302cff4b6603950616bd4d9b2e5)
