@@ -29,9 +29,9 @@ SBT — это концепция токенов, которые привяза�
 
 ## Скриншоты
 
-![Uploading image.png…]()
+![](https://i.ibb.co/dK1wSnF/image.png)
 
-![Uploading image.png…]()
+![](https://i.ibb.co/y5wPZPf/image.png)
 
 
 ## Foundry
